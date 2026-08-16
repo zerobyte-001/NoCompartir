@@ -20,15 +20,15 @@ const recetas = {
       nombre: "Keke Tradicional",
       intro: "Es un bizcocho tradicional de textura más densa.",
       ingredientes: [
-        "Mantequilla sin sal 1.2kg",
-        "Azúcar blanca 1.2kg",
+       "Mantequilla sin sal 2.4kg",
+        "Azúcar blanca 2.4kg",
         "Sponge 70 gr",
         "Huevos 24 unidades aprox 1200ml",
         "Harina Pastelera 3kg",
         "Polvo de hornear 80gr",
         "Sal 36gr",
-        "Leche fresca 1200 ml",
-        "Vainilla 5gr"
+        "Leche fresca 2.22 l",
+        "Vainilla 4 cucharadas",
       ],
       pasos: [
         "Encamisar los moldes",
